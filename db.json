@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "email": "yellhtetaung@gmail.com",
+      "password": "$2a$10$IHWIlAQ3JjyeTIDyVAT4l.iVSYh906C44SPHIzkAIRSyP/tIXf/qK",
+      "name": "yellhtetaung",
+      "id": 1
+    },
+    {
+      "email": "yairhtet.248.yah@gmail.com",
+      "password": "$2a$10$XqcLOQuD.7Bufr081GH/jOfOL1dXouUxOwsMl96dsAVNJhbuze.OS",
+      "name": "Yell Htet Aung",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Title 1",
+      "body": "Post content",
+      "userId": 1
+    }
+  ]
+}
